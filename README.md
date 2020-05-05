@@ -1,2 +1,2 @@
 # ULTRA
-Collection of publicly available malware decryptors
+Collection of publicly available malware decryptors and decoders.
